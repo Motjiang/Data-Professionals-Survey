@@ -7,6 +7,7 @@ This project aims to analyze a dataset containing responses from data profession
 
 
 #### Data Visualization:
+![Screenshot 2024-05-06 174856](https://github.com/Motjiang/Data-Professionals-Survey/assets/114883452/945f9dc8-873f-4c68-a409-b7fcee9c9a20)
 
 
 ### Data Sources
